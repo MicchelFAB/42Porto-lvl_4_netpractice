@@ -155,3 +155,10 @@ This entry indicates that traffic destined for the IP addresses in the range 192
 Understanding and managing the routing table is crucial for network administrators to ensure efficient data routing and connectivity within a network.
 
 ---
+## My Solutions
+
+<details>
+  <summary>Level 1</summary>
+ <br>
+  <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/001.png?raw=true" alt="level1">  
+  <br>
