@@ -231,3 +231,9 @@ Understanding and managing the routing table is crucial for network administrato
   <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/010.png?raw=true" alt="level10">  
   <br>
   </details>
+
+## Useful Links
+- [lpaube's Guide to NetPractice](https://github.com/lpaube/NetPractice)
+- [You Suck at Subnetting](https://www.youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF)
+- [Subnet Mask Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html)
+- [TCP/IP Model Explained](https://www.youtube.com/watch?v=OTwp3xtd4dg)
