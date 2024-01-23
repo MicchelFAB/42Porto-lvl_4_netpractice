@@ -1,3 +1,8 @@
+
+<p align="center">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png" alt="netpractice">
+</p>
+
 # Guide to NetPractice
 
 ## Overview
@@ -158,54 +163,71 @@ Understanding and managing the routing table is crucial for network administrato
 ## My Solutions
 
 <details>
-  <summary>Level 1</summary>
+  <summary><b>Level 1</b></summary>
  <br>
   <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/001.png?raw=true" alt="level1">  
   <br>
+    </details>
 
-  <summary>Level 2</summary>
+<details>
+  <summary><b>Level 2</b></summary>
  <br>
   <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/002.png?raw=true" alt="level2">  
   <br>
+    </details>
 
-  <summary>Level 3</summary>
+<details>
+  <summary><b>Level 3</b></summary>
  <br>
   <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/003.png?raw=true" alt="level3">  
   <br>
+    </details>
 
-  <summary>Level 4</summary>
+<details>
+  <summary><b>Level 4</b></summary>
  <br>
   <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/004.png?raw=true" alt="level4">  
   <br>
+    </details>
 
-  <summary>Level 5</summary>
+<details>
+  <summary><b>Level 5</b></summary>
  <br>
   <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/005.png?raw=true" alt="level5">  
   <br>
+    </details>
 
-  <summary>Level 6</summary>
+<details>
+  <summary><b>Level 6</b></summary>
  <br>
   <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/006.png?raw=true" alt="level6">  
   <br>
+    </details>
 
-  <summary>Level 7</summary>
+<details>
+  <summary><b>Level 7</b></summary>
  <br>
   <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/007.png?raw=true" alt="level7">  
   <br>
+    </details>
 
-  <summary>Level 8</summary>
+<details>
+  <summary><b>Level 8</b></summary>
  <br>
   <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/008.png?raw=true" alt="level8">  
   <br>
+    </details>
 
-  <summary>Level 9</summary>
+<details>
+  <summary><b>Level 9</b></summary>
  <br>
   <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/009.png?raw=true" alt="level9">  
   <br>
+  </details>
 
-  <summary>Level 10</summary>
+<details>
+  <summary><b>Level 10</b></summary>
  <br>
   <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/010.png?raw=true" alt="level10">  
   <br>
-
   </details>
