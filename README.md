@@ -162,3 +162,50 @@ Understanding and managing the routing table is crucial for network administrato
  <br>
   <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/001.png?raw=true" alt="level1">  
   <br>
+
+  <summary>Level 2</summary>
+ <br>
+  <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/002.png?raw=true" alt="level2">  
+  <br>
+
+  <summary>Level 3</summary>
+ <br>
+  <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/003.png?raw=true" alt="level3">  
+  <br>
+
+  <summary>Level 4</summary>
+ <br>
+  <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/004.png?raw=true" alt="level4">  
+  <br>
+
+  <summary>Level 5</summary>
+ <br>
+  <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/005.png?raw=true" alt="level5">  
+  <br>
+
+  <summary>Level 6</summary>
+ <br>
+  <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/006.png?raw=true" alt="level6">  
+  <br>
+
+  <summary>Level 7</summary>
+ <br>
+  <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/007.png?raw=true" alt="level7">  
+  <br>
+
+  <summary>Level 8</summary>
+ <br>
+  <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/008.png?raw=true" alt="level8">  
+  <br>
+
+  <summary>Level 9</summary>
+ <br>
+  <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/009.png?raw=true" alt="level9">  
+  <br>
+
+  <summary>Level 10</summary>
+ <br>
+  <img src="https://github.com/MicchelFAB/42Porto-lvl_4_netpractice/blob/master/img/010.png?raw=true" alt="level10">  
+  <br>
+
+  </details>
