@@ -1,6 +1,7 @@
 
 <p align="center">
-    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png" alt="netpractice">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png" alt="netpractice"></br>
+    <a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/cltzzvrp61460201p4yeptz0xk/project/3482882" alt="mamaral-'s 42 NetPractice Score" /></a>
 </p>
 
 # Guide to NetPractice
